@@ -4,7 +4,7 @@
 .header {
     display: block;
     padding: 15px 0;
-    height: 120px;
+    height: 70px;
     @include mq($deskPort) {
         height: auto;
     }
@@ -24,7 +24,7 @@
                 float: left;
                 &.logo {
                     width: 162px;
-                    background-color: transparent;
+                    background-color: #6675a8;
                     display: block;
                     text-align: center;
                     padding: 8px 0 10px 0;

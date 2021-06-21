@@ -3,7 +3,7 @@
 <div class="container-fluid header">
   <div class="navbar-header">
     <a class="navbar-brand logo">
-      <img src="/qm/assets/images/quorum-maker_log.png" width="85">
+      <img src="/qm/assets/images/quorum-maker.svg">
     </a>
     <span>{{getNodeInfoList?.nodeName}}</span>
     <em *ngIf="getNodeInfoList">{{getNodeInfoList?.active}}</em>

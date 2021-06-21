@@ -209,7 +209,7 @@ img {
     .rect-block-inner {
         height: 134px;
         border-radius: 6px;
-        background-color: #46108a;
+        background-color: #222941;
         padding: 15px 12px;
         p {
             margin-bottom: 13px;

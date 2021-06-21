@@ -2,8 +2,8 @@
 @import '~sass/mixins';
 @import '~sass/fonts';
 body {
-    background-color: #f6f5f7;
-    /*background-image: url('/assets/images/bg.jpg');*/
+    background-color: #1b2136;
+    background-image: url('/assets/images/bg.jpg');
     background-repeat: no-repeat;
     background-position: 0 0;
     -webkit-background-size: cover;
@@ -178,7 +178,7 @@ body {
 }
 
 .block-inner {
-    background: #3381dc/*$blockGreyColor*/;
+    background: $blockGreyColor;
     border-radius: 3px;
     padding: 15px 8px 15px 15px;
     h3 {
